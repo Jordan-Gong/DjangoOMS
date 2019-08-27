@@ -16,13 +16,27 @@ The following steps only work on Windows platform:
 
 ### First step
 
+If you haven’t installed Virtualenv, please install it:
+
+```powershell
+pip install virtualenv
+```
+
+Then add venv to virtual environment: 
+
+```
+virtualenv venv
+```
+
+### Second step
+
 Create a superuser
 
 ```powershell
 .\create_superuser.ps1
 ```
 
-### Second step
+### Third step
 
 Run server
 
