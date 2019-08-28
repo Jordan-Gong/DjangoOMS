@@ -1,6 +1,6 @@
 ## Django Book Order Management System
 
-This a book order management system written in Django based on [inzamul36](https://github.com/inzamul36)’s DOMS
+This is a book order management system written in Django based on [inzamul36](https://github.com/inzamul36)’s DOMS
 
 ##### Framework: Django 2.1.9
 
